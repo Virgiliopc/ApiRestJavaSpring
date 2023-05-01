@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img/restapijavaspring.png" max-width="800">    
+    <img src="./ApiRestJavaSpring/img/restapijavaspring.png" max-width="800">    
 </p>
 
 # Estudo sobre API REST Java e Spring Boot 💇
