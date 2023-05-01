@@ -12,10 +12,10 @@ Esse foi um projeto desenvolvido juntamente com Nélio Alves da DevSuperior!
 <ul>
   <li>A criação de uma API "sap"com Java e Spring Boot;</li>
   <li>API REST que disponibilize o endpoint/produtcs; </li>  
-  <li>Instanciados "hard code"</li>
+  <li>Instanciados "hard code";</li>
   <li>Modelo de domínio constituído por uma classe Product associado a uma classe Department;</li>
   <li>A estrutura de objetos compostas por 03 products associados a dois departments;</li>
-  <li>Utilização do do método GET/products</li>
+  <li>Utilização do do método GET/products.</li>
 </ul>
 
 ## :seedling: O resultado <strong>esperado deve</strong> apresentar:
