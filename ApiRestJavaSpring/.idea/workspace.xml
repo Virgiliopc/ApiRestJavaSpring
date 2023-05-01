@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49645abd-bb8c-4fe9-a7f6-087e71678dfd" name="Changes" comment="&quot;add ProductController.java&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="49645abd-bb8c-4fe9-a7f6-087e71678dfd" name="Changes" comment="&quot;update project&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682957634957</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;update project&quot;">
+      <created>1682959865459</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682959865459</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +112,7 @@
     <MESSAGE value="&quot;add Department.java&quot;" />
     <MESSAGE value="&quot;add Product.java&quot;" />
     <MESSAGE value="&quot;add ProductController.java&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;add ProductController.java&quot;" />
+    <MESSAGE value="&quot;update project&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;update project&quot;" />
   </component>
 </project>
