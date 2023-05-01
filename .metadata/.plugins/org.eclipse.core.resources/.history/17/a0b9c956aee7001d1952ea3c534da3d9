@@ -1,0 +1,8 @@
+package com.devsuperior.ApiRestJavaSpring.entities;
+
+public class Departament {
+	
+	private Long id;
+	private String name;
+
+}

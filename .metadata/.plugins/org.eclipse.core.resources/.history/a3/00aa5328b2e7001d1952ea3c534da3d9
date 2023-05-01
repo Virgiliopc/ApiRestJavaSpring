@@ -1,0 +1,18 @@
+package com.devsuperior.ApiRestJavaSpring.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.devsuperior.ApiRestJavaSpring.entities.Department;
+
+@RestController
+@RequestMapping("/products")
+public class ProductController {
+	
+	@GetMapping
+	public Department getObjets() {
+		Department d1 = new Department(1L, "Tech");		
+		return d1;
+	}
+}

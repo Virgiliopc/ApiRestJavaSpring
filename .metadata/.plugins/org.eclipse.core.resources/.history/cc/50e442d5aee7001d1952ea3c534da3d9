@@ -1,0 +1,5 @@
+package com.devsuperior.ApiRestJavaSpring.controller;
+
+public class ProductController {
+
+}

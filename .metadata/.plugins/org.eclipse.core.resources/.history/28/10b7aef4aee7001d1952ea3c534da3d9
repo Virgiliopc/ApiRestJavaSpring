@@ -1,0 +1,6 @@
+package com.devsuperior.ApiRestJavaSpring.controller;
+
+@REstController
+public class ProductController {
+
+}
